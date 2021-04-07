@@ -53,7 +53,7 @@ body {
       while ($row=pg_fetch_assoc($rs)) 
       {
     ?>
-					<div class="col-md-2.5" style="background-color: white;margin-top: 20px;margin-left: 35px;overflow: auto;width: 270px; 
+					<div class="col-md-2.8" style="background-color: white;margin-top: 20px;margin-left: 35px;overflow: auto;width: 270px; 
 					border: 2px solid #F8ABAB;border-radius: 1px;border-bottom: 6px solid #FCA5A5; float: left;">
 			      	<a href="single.php?id=<?php echo $row['productid']?>" style=" text-decoration: none; 
 			      text-align: center;">
