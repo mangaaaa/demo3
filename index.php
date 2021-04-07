@@ -25,7 +25,7 @@ body {
 }
 </style>
 <!-- list product -->
-<div class="container-fluid">
+<div class="container">
 <div class="containers">
   <img src="img/hompage.jpg" alt="Notebook" style="width:100%;">
   <div class="content">
