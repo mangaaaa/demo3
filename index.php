@@ -37,7 +37,7 @@ body {
 <br>
 <br>
 </div>
-<div class="container">
+<div class="container-fluid">
 	<div class="row">
 		<div style="border-bottom:4px solid #C63D5D;width: 100%">
 		<h2 >List Toys</h2>
